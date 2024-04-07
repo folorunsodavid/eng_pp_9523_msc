@@ -1,0 +1,16 @@
+
+1. Unique identifier
+2. Price
+3. Date of transfer
+4. Postcode
+5. Property type
+6. Tenure
+7. Address
+8. Local authority
+9. County
+10. Price band description
+11. Ppa type
+12. Record status
+13. New build
+14. Standard transaction
+15. Property size (m2)
